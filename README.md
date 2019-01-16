@@ -6,7 +6,7 @@ The wine dataset contains 5000 different wines with information of acidity, suga
 
 I explored how different parameters are associated with wine quality. I split wine quality for three categories: poor, average and good, and performed an analysis. In general, good wines contain more alcohol and volatile acidity, less chlorides, sulfur dioxide, density and sugar. 
 
-![pic.1](https://www.dropbox.com/s/ywasd4e905788f4/Screen%20Shot%202019-01-15%20at%203.53.32%20PM.png)
+![pic.1](https://drive.google.com/file/d/1nom77FEOnba76RPqtTYDtOg_arqgf73X/view)
 
 Cholrides and total sulfur dioxide both negatively affect wine grade. The interesting thing is that all the good wines have less than average of sulfur dioxide and cholrides at the same time. 
 
