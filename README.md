@@ -1,7 +1,7 @@
 # wines_dataset_analysis
 Exploratory analysis of white wines dataset in R.
 
-In this projest I exploped wines datasets (https://www.kaggle.com/numberswithkartik/red-white-wine-dataset) and found qualities specific for good and bad wines.
+In this project I explored wines datasets (https://www.kaggle.com/numberswithkartik/red-white-wine-dataset) and found qualities specific for good and bad wines.
 The wine dataset contains 5000 different wines with information of acidity, sugar, pH level, and other chemical parameters. Every wine is graded by critics according to its quality.
 
 I explored how different parameters are associated with wine quality. I split wine quality for three categories: poor, average and good, and performed an analysis. In general, good wines contain more alcohol and volatile acidity, less chlorides, sulfur dioxide, density and sugar. 
