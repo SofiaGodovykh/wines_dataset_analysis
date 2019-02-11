@@ -8,7 +8,7 @@ I explored how different parameters are associated with wine quality. I split wi
 
 ![pic.1](https://github.com/SofiaGodovykh/wines_dataset_analysis/blob/master/pic1.png)
 
-Cholrides and total sulfur dioxide both negatively affect wine grade. The interesting thing is that all the good wines have less than average of sulfur dioxide and cholrides at the same time. 
+Chlorides and total sulfur dioxide both negatively affect wine grade. The interesting thing is that all the good wines have less than average of sulfur dioxide and chlorides at the same time. 
 
 ![pic.2](https://github.com/SofiaGodovykh/wines_dataset_analysis/blob/master/pic2.png)
 
